@@ -9,8 +9,19 @@ class Home extends React.Component {
     return (
 
       <div className="blog-body">
+        <br />
+        <br />
         <h1>Welcome to my Blogsite!</h1>
+        <br />
+        <br />
+        <br />
+        <br />
         <h2>Intro</h2>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <p>Hi there and welcome to my website. My name is John Sengson and I am a student at <a href="https://devacademy.co.nz/">EDA</a>.</p>
         <p>This is my first ever website and I am creating this as part of my curriculum.</p>
         <p>I have blogs about my time studying, share some of my values, and hopefully later on videos and photos of my time in EDA.</p>
