@@ -1,0 +1,32 @@
+
+.v-intro{
+  background-image: url('https://cdn.pixabay.com/photo/2014/11/24/20/18/hands-544522_1280.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.p-values {
+  text-align: center;
+  font-family: 'Lemonada', cursive;
+  
+}
+
+
+.h3-values {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+.v-h2 {
+  text-align: center;
+  font-size: 65px;
+  font-family: 'Lemonada', cursive;
+}
+.sprints{
+  font-size: 50px;
+  font-family: 'Lemonada', cursive;
+}
+
+
