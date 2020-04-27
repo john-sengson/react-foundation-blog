@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-class Photos extends React.Component {
+class Videos extends React.Component {
   state = {}
   render() {
     return (
@@ -15,4 +15,4 @@ class Photos extends React.Component {
   }
 }
 
-export default Photos;
+export default Videos;

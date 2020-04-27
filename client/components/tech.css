@@ -1,0 +1,79 @@
+
+
+.main-pts {
+  font-size: large;
+  font-weight: bold;
+  color: white;
+}
+
+.techH1{
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
+
+.intro 
+{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  background-image: url(https://cdn.pixabay.com/photo/2016/03/26/13/12/pencils-1280558_1280.jpg);
+  background-repeat: round;
+  color:white
+
+}
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+.main-pts {
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+.p-tech {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bold;
+  color: white;
+}
+.pix {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ 
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: red;
+  text-align: center;
+  font-size: 10px;
+}
+#home-navi {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Handlee', cursive; 
+  color: white; 
+}
+.h3-tech {
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  color:white
+}
+.sprints {
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Shadows Into Light', cursive;
+}
