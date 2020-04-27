@@ -11,6 +11,7 @@ import Videos from './Videos'
 import Tech1 from './Tech1'
 import Tech2 from './Tech2'
 import Tech3 from './Tech3'
+import Tech4 from './Tech4'
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Route exact path='/Tech1' component={Tech1} />
       <Route exact path='/Tech2' component={Tech2} />
       <Route exact path='/Tech3' component={Tech3} />
+      <Route exact path='/Tech4' component={Tech4} />
     </div>
   )
 }

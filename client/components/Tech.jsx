@@ -25,7 +25,7 @@ class Tech extends React.Component {
           <li><a href="https://john-sengson.github.io/pages/sprint1-technical.html">Sprint-1</a></li>
           <li><Link to="./Tech2">Sprint-2</Link></li>
           <li><Link to="./Tech3">Sprint-3</Link></li>
-          {/* <li><Link to="./Tech4">Sprint-4</Link></li> */}
+          <li><Link to="./Tech4">Sprint-4</Link></li>
         </ul>
       </div>
 
