@@ -1,30 +1,8 @@
 export default {
-  data: [{
-    id: 1,
-    make: "Honda",
-    model: "Integra",
-    year: "1997",
-    engine: "1600cc sohc"
-  },
-  {
-    id: 2,
-    make: "Toyota",
-    model: "Altezza",
-    year: "1999",
-    engine: "2000cc beams"
-  },
-  {
-    id: 3,
-    make: "Mazda",
-    model: "Atenza",
-    year: "2005",
-    engine: "2200cc"
-  },
-  {
-    id: 4,
-    make: "Toyota",
-    model: "Vanguard",
-    year: "2007",
-    engine: "2200cc"
+  values: [{
+    sprint: 1,
+    topic: "Identity, Values, and Strengths Activity",
+    header: "1.Describe your core personal values.",
+    question: "What is Emotional Intelligence?",
+    answer: "Emotional intelligence/ quotient is the ability to identify and manage one's own emotions, as well as the emotion of others."
   }]
-}
