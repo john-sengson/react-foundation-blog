@@ -12,6 +12,7 @@ class Header extends React.Component {
         <Link to='Videos'>Videos</Link>~~
         <Link to='/Photos'>Photos</Link>~~
         <a href="pages/bulma.html">Framework</a>~~
+        <Link to='/NL'>NL</Link>~~
 
       </div>
     );
