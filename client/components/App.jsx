@@ -18,6 +18,7 @@ import Values2 from './Values2'
 import Values3 from './Values3'
 import Values4 from './Values4'
 import Values5 from './Values5'
+import NL from './NL'
 
 const App = () => {
   return (
@@ -37,6 +38,7 @@ const App = () => {
       <Route exact path='/Values3' component={Values3} />
       <Route exact path='/Values4' component={Values4} />
       <Route exact path='/Values5' component={Values5} />
+      <Route exact path='/NL' component={NL} />
     </div>
   )
 }

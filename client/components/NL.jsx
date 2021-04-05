@@ -6,9 +6,7 @@ class NL extends React.Component {
   render() {
     return (
       <div>
-        <h1>Under Construction</h1>
-        <p>We appreciate your patience while we set up this page</p>
-        <img src="https://john-sengson.github.io/pages/photo/construction.jfif" alt="construction" className="center" />
+     <h1>Noel Leeming Training Modules</h1>
         <Link to='/'><h2>Home</h2></Link>
       </div>
     )
